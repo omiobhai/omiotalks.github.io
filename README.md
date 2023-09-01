@@ -1,1 +1,1 @@
-# omiotalks.github.io
+git clone https://github.com/yourusername/yourusername.github.io
